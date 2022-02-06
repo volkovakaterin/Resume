@@ -25,7 +25,6 @@ const whatDid = document.querySelectorAll('.what-did');
 
 whatDid.forEach((element) => {
   element.addEventListener('click', () => {
-    console.log(element);
     element.querySelector('.what-did-description').classList.toggle('description-visible');
   });
 });
