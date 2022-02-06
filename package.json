@@ -36,7 +36,7 @@
     "file-loader": "^6.2.0",
     "html-loader": "^1.1.0",
     "inline-source-map": "^0.6.2",
-    "jest": "^26.0.1",
+    "jest": "^27.5.0",
     "jsdoc": "^3.6.4",
     "puppeteer": "^10.4.0",
     "url-loader": "^4.1.1",
